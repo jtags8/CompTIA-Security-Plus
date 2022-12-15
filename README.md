@@ -1,4 +1,4 @@
-# How I Passed the CompTIA-Security+
+# How I Passed the CompTIA-Security+ without an IT background
 
 On Decembr 5, 2022, I passed the Security+ exam with a score of 789!
 
